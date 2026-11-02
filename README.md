@@ -1,3 +1,27 @@
+<div align="center">
+
+  <!-- 3D DYNAMIC WAVING BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,8,4,2,0&height=220&section=header&text=Ponytail%20AI%20Skill&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=%F0%9F%92%A4%20Think%20Like%20The%20Laziest%20Senior%20Dev%20in%20The%20Room&descAlignY=62&descAlign=50" width="100%" alt="Ponytail AI Skill 3D Banner" />
+
+  <!-- 3D ANIMATED PROJECT ICON -->
+  <a href="https://github.com/OPSHARP/ponytail">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sleeping%20Face.png" width="95" height="95" alt="Ponytail AI Skill 3D Icon" />
+  </a>
+
+  <h1>Ponytail AI Skill</h1>
+  <p><b>💤 Think Like The Laziest Senior Dev in The Room</b></p>
+
+  <!-- 3D TECH STACK CARDS -->
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=markdown,bash,git,github&theme=dark" alt="3D Tech Stack" />
+    </a>
+  </p>
+
+</div>
+
+---
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png">
@@ -223,3 +247,9 @@ You know exactly why.
    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=DietrichGebert/ponytail&type=Date" />
  </picture>
 </a>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,8,4,2,0&height=100&section=footer" width="100%" alt="3D Waving Footer" />
+</div>
