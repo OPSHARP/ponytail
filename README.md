@@ -1,8 +1,5 @@
 <div align="center">
 
-  <!-- 3D DYNAMIC WAVING BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,8,4,2,0&height=220&section=header&text=Ponytail%20AI%20Skill&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=%F0%9F%92%A4%20Think%20Like%20The%20Laziest%20Senior%20Dev%20in%20The%20Room&descAlignY=62&descAlign=50" width="100%" alt="Ponytail AI Skill 3D Banner" />
-
   <!-- 3D ANIMATED PROJECT ICON -->
   <a href="https://github.com/OPSHARP/ponytail">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sleeping%20Face.png" width="95" height="95" alt="Ponytail AI Skill 3D Icon" />
@@ -248,8 +245,4 @@ You know exactly why.
  </picture>
 </a>
 
----
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,8,4,2,0&height=100&section=footer" width="100%" alt="3D Waving Footer" />
-</div>
